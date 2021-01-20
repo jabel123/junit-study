@@ -12,8 +12,8 @@
 
 ## 목차 
 
-1. [첫 번쨰 JUnit 테스트 만들기](./chap01/summar.md)
-2. JUnit 진짜로 써보기
+1. [첫 번쨰 JUnit 테스트 만들기](./chap01/summary.md)
+2. [JUnit 진짜로 써보기](./chap02/summary.md)
 3. JUnit 단언 깊게 파기
 4. 테스트 조직
 5. 좋은 테스트의 FIRST 속성
