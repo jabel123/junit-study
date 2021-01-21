@@ -14,7 +14,7 @@
 
 1. [첫 번쨰 JUnit 테스트 만들기](./chap01/summary.md)
 2. [JUnit 진짜로 써보기](./chap02/summary.md)
-3. JUnit 단언 깊게 파기
+3. [JUnit 단언 깊게 파기](./chap03/summary.md)
 4. 테스트 조직
 5. 좋은 테스트의 FIRST 속성
 6. Right-BICEP: 무엇을 테스트할 것인가?
