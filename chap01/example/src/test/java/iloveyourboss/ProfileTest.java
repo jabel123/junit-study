@@ -20,6 +20,22 @@ public class ProfileTest {
         criteria = new Criteria();
     }
 
+    public void matches() {
+        profile = new Profile("BUll Hockey, Inc.");
+        question = new BooleanQuestion(1, "Got bonuses?");
+        criteria = new Criteria();
+
+        // Arrange
+        profile.add(new Answer(question, Bool.FALSE));
+        criteria.add(new Criterion(new Answer(question, Bool.TRUE), Weight.DontCare));
+
+        // Act
+        boolean matches = profile.matches(criteria);
+
+        // assert
+        assertTrue(matches);
+    }
+
     @Test
     public void test() {
         // Arrange
