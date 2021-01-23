@@ -11,6 +11,10 @@ public abstract class Question {
         this.answerChoices = answerChoices;
     }
 
+    public Question(String text) {
+        this.text = test;
+    }
+
     public String getText() {
         return text;
     }
