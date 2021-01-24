@@ -16,8 +16,8 @@
 2. [JUnit 진짜로 써보기](./chap02/summary.md)
 3. [JUnit 단언 깊게 파기](./chap03/summary.md)
 4. [테스트 조직](./chap04/summary.md)
-5. 좋은 테스트의 FIRST 속성
-6. Right-BICEP: 무엇을 테스트할 것인가?
+5. [좋은 테스트의 FIRST 속성](./chap05/summary.md)
+6. [Right-BICEP: 무엇을 테스트할 것인가?](./chap06/summary.md)
 7. 경계 조건: CORRECT 기억법
 8. 깔끔한 코드로 리팩토링하기
 9. 더 큰 설계 문제
