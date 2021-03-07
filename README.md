@@ -19,8 +19,8 @@
 5. [좋은 테스트의 FIRST 속성](./chap05/summary.md)
 6. [Right-BICEP: 무엇을 테스트할 것인가?](./chap06/summary.md)
 7. [경계 조건: CORRECT 기억법](./chap07/summary.md)
-8. 깔끔한 코드로 리팩토링하기
-9. 더 큰 설계 문제
+8. [깔끔한 코드로 리팩토링하기](./chap08/summary.md)
+9. [더 큰 설계 문제](./chap09/summary.md)
 10. 목 객체 사용
 11. 테스트 리팩토링
 12. 테스트 주도 개발
