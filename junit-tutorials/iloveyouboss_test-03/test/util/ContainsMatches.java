@@ -9,9 +9,13 @@
 package util;
 
 import java.util.*;
-import org.hamcrest.*;
+import java.util.regex.Matcher;
 
-public class ContainsMatches extends TypeSafeMatcher<List<Match>> {
+import org.hamcrest.*;
+import org.junit.internal.matchers.TypeSafeMatcher;
+
+public class ContainsMatches extends TypeSafeMatcher<List<Match>>
+{
    private Match[] expected;
 
    public ContainsMatches(Match[] expected) {
