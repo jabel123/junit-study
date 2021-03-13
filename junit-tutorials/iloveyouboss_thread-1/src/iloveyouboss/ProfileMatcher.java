@@ -22,10 +22,8 @@ public class ProfileMatcher {
 
 
     
-   public void findMatchingProfiles(
-         Criteria criteria, MatchListener listener) {
-      ExecutorService executor = 
-            Executors.newFixedThreadPool(DEFAULT_POOL_SIZE);
+   public void findMatchingProfiles(Criteria criteria, MatchListener listener) {
+      ExecutorService executor = Executors.newFixedThreadPool(DEFAULT_POOL_SIZE);
 
       List<MatchSet> matchSets = profiles.values().stream()
             .map(profile -> profile.getMatchSet(criteria)) 
