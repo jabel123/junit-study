@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f51705e4-f8a0-40d2-899b-d7c412007c77" name="Default Changelist" comment="" />
+    <list default="true" id="f51705e4-f8a0-40d2-899b-d7c412007c77" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iloveyouboss_thread-1/src/iloveyouboss/ProfileMatcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/iloveyouboss_thread-1/src/iloveyouboss/ProfileMatcher.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,6 +86,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="520" y="315" key="#Scopes" timestamp="1615635758240">
+      <screen x="0" y="0" width="1440" height="846" />
+    </state>
+    <state x="520" y="315" key="#Scopes/0.0.1440.846@0.0.1440.846" timestamp="1615635758240" />
     <state x="349" y="156" key="NewModule_or_Project.wizard" timestamp="1615097659182">
       <screen x="0" y="0" width="1440" height="846" />
     </state>
