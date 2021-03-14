@@ -25,4 +25,4 @@
 11. [테스트 리팩토링](./chap11/summary.md)
 12. [테스트 주도 개발](./chap12/summary.md)
 13. [까다로운 테스트](./chap13/summary.md)
-14. 프로젝트에서 테스트
+14. [프로젝트에서 테스트](./chap14/summary.md)
